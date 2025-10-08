@@ -1,0 +1,25 @@
+# Developer notes
+developer-notes
+
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+FastAPI/venv/
+.env
+*.db
+*.sqlite3
+
+# Node.js / React
+React/node_modules/
+React/build/
+React/dist/
+node_modules/
+*.log
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
